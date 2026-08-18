@@ -1,0 +1,350 @@
+{
+ "generated_from": "строки ивентов сводной",
+ "years": {
+  "2024": {
+   "events": 8,
+   "cpa_median": 2171,
+   "cpa_min": 1261,
+   "cpa_max": 3063,
+   "cost_per_sp_median": 0,
+   "budget_median": 773496
+  },
+  "2025": {
+   "events": 14,
+   "cpa_median": 2030,
+   "cpa_min": 1086,
+   "cpa_max": 4502,
+   "cost_per_sp_median": 18556,
+   "budget_median": 895554
+  },
+  "2026": {
+   "events": 7,
+   "cpa_median": 2715,
+   "cpa_min": 2035,
+   "cpa_max": 7135,
+   "cost_per_sp_median": 13967,
+   "budget_median": 1184554
+  }
+ },
+ "events": [
+  {
+   "event": "Найти и удержать",
+   "date": "18.06.2024",
+   "cost": 1810000,
+   "regs": 591,
+   "cpa": 3063,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 0,
+   "cr": 36
+  },
+  {
+   "event": "Вебинар OKKO",
+   "date": "18.07.2024",
+   "cost": 754000,
+   "regs": 383,
+   "cpa": 1969,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 55
+  },
+  {
+   "event": "Эфир CVM",
+   "date": "22.08.2024",
+   "cost": 792993,
+   "regs": 629,
+   "cpa": 1261,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 66
+  },
+  {
+   "event": "Вебинар Synergetic",
+   "date": "05.09.2024",
+   "cost": 359000,
+   "regs": 139,
+   "cpa": 2583,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 0,
+   "cr": 33
+  },
+  {
+   "event": "Лояльные посиделки",
+   "date": "26.09.2024",
+   "cost": 750000,
+   "regs": 316,
+   "cpa": 2373,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 0,
+   "cr": 61
+  },
+  {
+   "event": "Mindbox Конференций",
+   "date": "29.10.2024",
+   "cost": 1307164,
+   "regs": 765,
+   "cpa": 1709,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 25
+  },
+  {
+   "event": "CRM-интенсив",
+   "date": "28.11.2024",
+   "cost": 972646,
+   "regs": 585,
+   "cpa": 1663,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 56
+  },
+  {
+   "event": "CRM-брейншторм",
+   "date": "12.12.2024",
+   "cost": 356561,
+   "regs": 126,
+   "cpa": 2830,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 0,
+   "cr": 55
+  },
+  {
+   "event": "Hoff",
+   "date": "29.1.2025",
+   "cost": 620812,
+   "regs": 285,
+   "cpa": 2178,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 0,
+   "cr": 50
+  },
+  {
+   "event": "Мобильный маркетинг",
+   "date": "13.02.2025",
+   "cost": 851728,
+   "regs": 784,
+   "cpa": 1086,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 72
+  },
+  {
+   "event": "ЦУМ",
+   "date": "06.03.2025",
+   "cost": 511450,
+   "regs": 454,
+   "cpa": 1127,
+   "sp": 58,
+   "cost_per_sp": 8818,
+   "ctr": 1,
+   "cr": 65
+  },
+  {
+   "event": "Много Лосося",
+   "date": "20.03.2025",
+   "cost": 861508,
+   "regs": 294,
+   "cpa": 2930,
+   "sp": 48,
+   "cost_per_sp": 17948,
+   "ctr": 0,
+   "cr": 51
+  },
+  {
+   "event": "Геймификация",
+   "date": "03.04.2025",
+   "cost": 900696,
+   "regs": 486,
+   "cpa": 1853,
+   "sp": 47,
+   "cost_per_sp": 19164,
+   "ctr": 1,
+   "cr": 63
+  },
+  {
+   "event": "СЕО САММИТ",
+   "date": "24.04.2025",
+   "cost": 1053880,
+   "regs": 560,
+   "cpa": 1882,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 53
+  },
+  {
+   "event": "Контентные рассылки",
+   "date": "29.05.2025",
+   "cost": 705364,
+   "regs": 472,
+   "cpa": 1494,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 65
+  },
+  {
+   "event": "Лояльный маркетинг",
+   "date": "25.06.2025",
+   "cost": 1081813,
+   "regs": 921,
+   "cpa": 1175,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 61
+  },
+  {
+   "event": "А/Б-тесты с Фоскфордом",
+   "date": "29.07.2025",
+   "cost": 682550,
+   "regs": 371,
+   "cpa": 1840,
+   "sp": 61,
+   "cost_per_sp": 11189,
+   "ctr": 1,
+   "cr": 62
+  },
+  {
+   "event": "Промогенератор",
+   "date": "26.08.2025",
+   "cost": 1069512,
+   "regs": 261,
+   "cpa": 4098,
+   "sp": 50,
+   "cost_per_sp": 21390,
+   "ctr": 0,
+   "cr": 38
+  },
+  {
+   "event": "Кейс-стади в медицине",
+   "date": "16.9.2025",
+   "cost": 890412,
+   "regs": 200,
+   "cpa": 4452,
+   "sp": 51,
+   "cost_per_sp": 17459,
+   "ctr": 1,
+   "cr": 55
+  },
+  {
+   "event": "Mindbox Конференций",
+   "date": "13.10.2025",
+   "cost": 2508354,
+   "regs": 654,
+   "cpa": 3835,
+   "sp": null,
+   "cost_per_sp": null,
+   "ctr": 1,
+   "cr": 35
+  },
+  {
+   "event": "AI в маркетинге",
+   "date": "25.11.2025",
+   "cost": 1195560,
+   "regs": 512,
+   "cpa": 2335,
+   "sp": 50,
+   "cost_per_sp": 23911,
+   "ctr": 1,
+   "cr": 62
+  },
+  {
+   "event": "CRM-рулетка",
+   "date": "10.12.2025",
+   "cost": 1413770,
+   "regs": 314,
+   "cpa": 4502,
+   "sp": 60,
+   "cost_per_sp": 23563,
+   "ctr": 0,
+   "cr": 56
+  },
+  {
+   "event": "Вебинар Mario Berlucci",
+   "date": "12.02.2026",
+   "cost": 763400,
+   "regs": 107,
+   "cpa": 7135,
+   "sp": 17,
+   "cost_per_sp": 44906,
+   "ctr": 0,
+   "cr": 50
+  },
+  {
+   "event": "Реклама по расчету",
+   "date": "25.02.2026",
+   "cost": 1318122,
+   "regs": 348,
+   "cpa": 3788,
+   "sp": 68,
+   "cost_per_sp": 19384,
+   "ctr": 1,
+   "cr": 55
+  },
+  {
+   "event": "Неделя удержания",
+   "date": "23.03.2026",
+   "cost": 1410634,
+   "regs": 668,
+   "cpa": 2112,
+   "sp": 101,
+   "cost_per_sp": 13967,
+   "ctr": 2,
+   "cr": 34
+  },
+  {
+   "event": "Как обогнать бенчмарки",
+   "date": "16.04.2026",
+   "cost": 1184554,
+   "regs": 582,
+   "cpa": 2035,
+   "sp": 107,
+   "cost_per_sp": 11071,
+   "ctr": 6,
+   "cr": 17
+  },
+  {
+   "event": "Новичок → ядро: как управлять привычкой клиента и растить выручку",
+   "date": "21.05.2026",
+   "cost": 989297,
+   "regs": 353,
+   "cpa": 2803,
+   "sp": 52,
+   "cost_per_sp": 19025,
+   "ctr": 2,
+   "cr": 13
+  },
+  {
+   "event": "Ревью Полугодия",
+   "date": "18.06.2026",
+   "cost": 1413422,
+   "regs": 642,
+   "cpa": 2202,
+   "sp": 118,
+   "cost_per_sp": 11978,
+   "ctr": 3,
+   "cr": 18
+  },
+  {
+   "event": "Вебинар Фоксфорд",
+   "date": "22.07.2026",
+   "cost": 969204,
+   "regs": 357,
+   "cpa": 2715,
+   "sp": 74,
+   "cost_per_sp": 13097,
+   "ctr": 1,
+   "cr": 53
+  }
+ ]
+}

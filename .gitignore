@@ -1,0 +1,16 @@
+# Личные доступы — никогда не коммитить
+config.json
+.env
+*token*.json
+google_token.json
+
+# Накопленное локально: у каждого своё
+knowledge/trello_index.json
+knowledge/events.jsonl
+knowledge/rules.jsonl
+knowledge/report_*.html
+
+# Мусор
+__pycache__/
+*.pyc
+.DS_Store

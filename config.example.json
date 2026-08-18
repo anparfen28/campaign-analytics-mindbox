@@ -1,0 +1,4 @@
+{
+  "trello_env_path": "<путь к .env с TRELLO_API_KEY и TRELLO_TOKEN — секреты держим там, не здесь>",
+  "sheets_token_path": "<путь к OAuth-токену Google, scope spreadsheets.readonly>"
+}
